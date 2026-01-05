@@ -30,7 +30,7 @@ This repository contains the complete solution for the Infrastructure DevOps Int
 - Explained production-grade fix using custom CA
 
 ## Validation Outputs
-See `screenshots/` directory.
+See screenshot png file
 
 ## Notes
 This setup is suitable for early-stage startups due to low cost and operational simplicity but is not HA-ready.
