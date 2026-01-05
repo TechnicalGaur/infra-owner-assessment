@@ -6,4 +6,4 @@ oidc:
     - openid
     - profile
     - email
-  insecureSkipVerify: true
+  insecureSkipVerify: true    #TLS verification disable (NOT for prod)
